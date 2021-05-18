@@ -1,24 +1,24 @@
-# README
+# Zoom Api Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Aplicación web para el manejo de la api de Zoom.us(https://zoom.us)
 
-Things you may want to cover:
+## Pasos Iniciales
 
-* Ruby version
+Tener Ruby instalado en sus sistema Operativo, ademas de la gema Rails 
+<br>
+https://guides.rubyonrails.org/getting_started.html
 
-* System dependencies
+### Requisitos
 
-* Configuration
+* Ruby
+* Rails
+* Cuenta de zoom
+* JWT Zoom app
 
-* Database creation
+### En progreso
 
-* Database initialization
+Se continua añadiendo mas funciones a la app
 
-* How to run the test suite
+## Autor
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* **Joseph Murillo** - (https://www.linkedin.com/in/joseph-murillo-810640174/)
